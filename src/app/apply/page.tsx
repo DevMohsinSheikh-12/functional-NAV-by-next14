@@ -6,7 +6,7 @@ function page() {
     <h1 className='text-center text-6xl'>
     Apply Now
       
-      <br className='max-md:hidden'/>
+      <br className=''/>
       <span className='text-center text-6xl text-sky-500 font-bold'>
       Don't be Late</span>
       </h1>
