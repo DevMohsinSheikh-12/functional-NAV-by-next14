@@ -6,7 +6,7 @@ function page() {
     <h1 className='text-center text-6xl'>
      Contact Us
       
-      <br className='max-md:hidden'/>
+      <br className='n'/>
       <span className='text-center text-6xl text-sky-500 font-bold'>
        For More Details </span>
       </h1>
