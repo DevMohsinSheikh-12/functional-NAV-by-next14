@@ -6,7 +6,7 @@ function about() {
     <h1 className='text-center text-6xl'>
      This Is
       
-      <br className='max-md:hidden'/>
+      <br className=''/>
       <span className='text-center text-6xl text-sky-500 font-bold'>
        About Page </span>
       </h1>
